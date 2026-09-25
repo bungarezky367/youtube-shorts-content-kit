@@ -1,0 +1,23 @@
+{
+  "project": "PROJECT TITLE",
+  "created_at": "",
+  "platform": "YouTube Shorts",
+  "target_audience": "USA + Global",
+  "aspect_ratio": "9:16",
+  "scene_duration_max_seconds": 5,
+  "scenes": [],
+  "seo": {
+    "title": "",
+    "description": "",
+    "hashtags": [],
+    "tags": []
+  },
+  "publishing": {
+    "thumbnail_ready": false,
+    "voice_over_ready": false,
+    "visuals_ready": false,
+    "captions_ready": false,
+    "metadata_ready": false,
+    "final_review": false
+  }
+}
